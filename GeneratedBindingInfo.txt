@@ -1,0 +1,6 @@
+Binding for:
+de.hdodenhof:circleimageview:2.0.0
+
+Dependencies:
+
+circleimageview-2.0.0.aar,    Path=C:\Users\mypc\.gradle\caches\modules-2\files-2.1\de.hdodenhof\circleimageview\2.0.0\24c2714c9107b98d3b7113332b70e3245b2405bf\circleimageview-2.0.0.aar
