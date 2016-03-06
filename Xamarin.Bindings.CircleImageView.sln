@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Bindings.CircleImageView", "Xamarin.Bindings.CircleImageView.csproj", "{9C916F9E-CB85-4364-BC73-F97533B0BD59}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{57163260-60F8-4FED-AA8E-36995EB2E8A0}"
+	ProjectSection(SolutionItems) = preProject
+		nuspec.nuspec = nuspec.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

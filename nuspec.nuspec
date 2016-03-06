@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+	<metadata>
+		<id>Xamarin.Bindings.CircleImageView</id>
+		<version>2.0.0.0</version>
+		<title>Xamarin.Bindings.CircleImageView</title>
+		<authors>Przemek Raciborski ( thefex )</authors>
+		<owners>Copyright 2014 - 2015 Henning Dodenhof - Author of orginal Android Library.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Bindings for CircleImageView - https://github.com/hdodenhof/CircleImageView </description>
+		<tags>xamarin bindings circleimageview image</tags>
+	</metadata>
+	<files>
+		<file src="bin\Release\*.dll" target="lib\MonoAndroid403\Xamarin.Bindings.CircleImageView.dll" />
+	</files>
+</package>
