@@ -42,9 +42,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <LibraryProjectZip Include="circleimageview-2.0.0.aar" />
+    <None Include="circleimageview-2.1.0-javadoc\META-INF\MANIFEST.MF" />
+    <None Include="circleimageview-2.1.0-javadoc\package-list" />
     <None Include="Jars\AboutJars.txt" />
     <None Include="Additions\AboutAdditions.txt" />
+    <LibraryProjectZip Include="Jars\circleimageview-2.1.0.aar" />
   </ItemGroup>
   <ItemGroup>
     <TransformFile Include="Transforms\Metadata.xml" />
@@ -52,6 +54,20 @@
     <TransformFile Include="Transforms\EnumMethods.xml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="circleimageview-2.1.0-javadoc\allclasses-frame.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\allclasses-noframe.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\constant-values.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\deprecated-list.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\de\hdodenhof\circleimageview\CircleImageView.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\de\hdodenhof\circleimageview\package-frame.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\de\hdodenhof\circleimageview\package-summary.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\de\hdodenhof\circleimageview\package-tree.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\help-doc.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\index-all.html" />
+    <JavaDocIndex Include="circleimageview-2.1.0-javadoc\index.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\overview-tree.html" />
+    <Content Include="circleimageview-2.1.0-javadoc\script.js" />
+    <Content Include="circleimageview-2.1.0-javadoc\stylesheet.css" />
     <Content Include="GeneratedBindingInfo.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.Bindings.targets" />

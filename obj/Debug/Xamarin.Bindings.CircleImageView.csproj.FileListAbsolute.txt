@@ -3,3 +3,8 @@ C:\Users\mypc\Source\Repos\Debts.Mobile\Dets.Android\AndroidBindings\Xamarin.Bin
 C:\Users\mypc\Source\Repos\Debts.Mobile\Dets.Android\AndroidBindings\Xamarin.Bindings.CircleImageView\obj\Debug\Xamarin.Bindings.CircleImageView.csprojResolveAssemblyReference.cache
 C:\Users\mypc\Source\Repos\Debts.Mobile\Dets.Android\AndroidBindings\Xamarin.Bindings.CircleImageView\obj\Debug\Xamarin.Bindings.CircleImageView.dll
 C:\Users\mypc\Source\Repos\Debts.Mobile\Dets.Android\AndroidBindings\Xamarin.Bindings.CircleImageView\obj\Debug\Xamarin.Bindings.CircleImageView.pdb
+C:\Users\mypc\Source\Repos\Xamarin.Bindings.CircleImageView\bin\Debug\Xamarin.Bindings.CircleImageView.dll
+C:\Users\mypc\Source\Repos\Xamarin.Bindings.CircleImageView\bin\Debug\Xamarin.Bindings.CircleImageView.pdb
+C:\Users\mypc\Source\Repos\Xamarin.Bindings.CircleImageView\obj\Debug\Xamarin.Bindings.CircleImageView.csprojResolveAssemblyReference.cache
+C:\Users\mypc\Source\Repos\Xamarin.Bindings.CircleImageView\obj\Debug\Xamarin.Bindings.CircleImageView.dll
+C:\Users\mypc\Source\Repos\Xamarin.Bindings.CircleImageView\obj\Debug\Xamarin.Bindings.CircleImageView.pdb
